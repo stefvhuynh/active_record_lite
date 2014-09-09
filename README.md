@@ -1,3 +1,5 @@
-After the project, you can review the solution here:
+Active Record Lite
+==================
 
-* https://github.com/appacademy-solutions/active_record_lite/tree/solution
+This is a project where I rebuilt a light version of Active Record, using
+some awesome metaprogramming techniques.
